@@ -58,4 +58,4 @@ Add to `claude_desktop_config.json`:
 with open('README.md', 'w') as f:
     f.write(readme_content)
 
-print("✅ README.md created!")
+print(" README.md created!")
